@@ -1,11 +1,11 @@
-# Catalogue KBR-UI — 40 composants
+# Catalogue KBR-UI — 42 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
 Chaque composant est un **web component autonome** (zéro dépendance) :
 
-- Source JS : `https://ui.rodolphekouadio.com/bluma/<id>.js` — définit le custom element
-- Démo HTML : `https://ui.rodolphekouadio.com/bluma/<id>.html` — page d'exemple complète
+- Source JS : `https://ui.rodolphekouadio.com/api/kbr/components/<id>` — clé API requise
+- Fiche publique : `https://ui.rodolphekouadio.com/composants/<id>` — aperçu statique, démo interactive après connexion
 
 | Composant (FR / EN) | Tag | Famille | Ce qu'il fait |
 |---|---|---|---|
@@ -49,3 +49,5 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | Partager & inviter / Share & Invite | `<share-invite>` | Signature | Les emails deviennent des puces avec un rôle ; Envoyer les range dans la liste ; Copier le lien copie. |
 | Ticket détachable / Tear-off Ticket | `<tear-ticket>` | Signature | Un ticket qui se détache le long des pointillés quand vous tirez. |
 | Ticket détachable, horizontal / Tear-off Ticket, horizontal | `<tear-ticket-horizontal>` | Signature | Le ticket détachable, à l'horizontale. |
+| Admin Dashboard / Admin Dashboard | `<admin-dashboard>` | Templates | Complete admin shell: collapsible sidebar, sticky header, stat cards, charts and a paginated table. Zero dependencies. |
+| Analytics Dashboard / Analytics Dashboard | `<analytics-dashboard>` | Templates | Analytics shell: workspace sidebar, KPI strip with sparklines, area chart, radial goal gauge, channel ranking and AI insights. Zero dependencies. |

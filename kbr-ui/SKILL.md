@@ -33,7 +33,7 @@ file, and every download is counted on the user's account.
    rebuilding: it is animated, themed and tested.
 3. **Fetch.** `node <skill>/scripts/kbr.mjs get <id> --out <components-dir>` — saves
    `<id>.js` and prints the usage snippet. The matching demo page
-   (`https://ui.rodolphekouadio.com/bluma/<id>.html`) shows full usage.
+   (`https://ui.rodolphekouadio.com/composants/<id>`) describes the component and links to its integration code for signed-in users.
 4. **Use.** Load the file once, then drop the tag:
 
    ```html
