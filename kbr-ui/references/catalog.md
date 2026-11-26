@@ -1,4 +1,4 @@
-# Catalogue KBR-UI — 46 composants
+# Catalogue KBR-UI — 47 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
@@ -55,3 +55,4 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | Pulse Dashboard / Pulse Dashboard | `<pulse-dashboard>` | Templates | Product home dashboard: greeting header, divided KPI strip, dual-series revenue chart and invoices table. Zero dependencies. |
 | Atlas Dashboard / Atlas Dashboard | `<atlas-dashboard>` | Templates | Classic admin template (CoreUI Free genre): dark sidebar, colored KPI cards with sparklines, traffic chart, progress strips, source ranking and users table. Zero dependencies. |
 | Meridian Dashboard / Meridian Dashboard | `<meridian-dashboard>` | Templates | MUI-style admin dashboard: grouped bar sales chart, yearly donut, earnings stat, transactions timeline, priority-chip table and product cards. Zero dependencies. |
+| Orchard Dashboard / Orchard Dashboard | `<orchard-dashboard>` | Templates | Berry-genre admin dashboard: violet/blue hero stat cards with blobs, Month/Year toggles, growth chart, popular-stocks list with sparklines, sidebar storage card. Zero dependencies. |
