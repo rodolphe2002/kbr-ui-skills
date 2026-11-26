@@ -1,4 +1,4 @@
-# Catalogue KBR-UI — 55 composants
+# Catalogue KBR-UI — 56 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
@@ -64,3 +64,4 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | Nord Store / Nord Store | `<nord-store>` | Templates | Minimal e-commerce storefront: clean header, editorial hero with gradient accent, product rail with CSS-composed art, apparel banner, collection duo, newsletter consent, footer. Zero dependencies. |
 | Lumen Photos / Lumen Photos | `<lumen-photos>` | Templates | Photo library app: top bar with search, library sidebar with storage meter, day-grouped justified photo grid with CSS-composed scenes, right-side year timeline. Zero dependencies. |
 | JSON Graph Editor / JSON Graph Editor | `<json-graph>` | Templates | JSON-to-graph editor: code pane with syntax highlight and live editing, node canvas with bezier edges and expandable rows, pan/zoom toolbar, validity indicator. Zero dependencies. |
+| Harbor Clients / Harbor Clients | `<harbor-clients>` | Templates | Media-server downloads page: docs header with command-K search, tab bar, recommended/all segmented toggle, stacked client cards with badges, platform icons and store buttons. Zero dependencies. |
