@@ -1,4 +1,4 @@
-# Catalogue KBR-UI — 49 composants
+# Catalogue KBR-UI — 50 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
@@ -58,3 +58,4 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | Orchard Dashboard / Orchard Dashboard | `<orchard-dashboard>` | Templates | Berry-genre admin dashboard: violet/blue hero stat cards with blobs, Month/Year toggles, growth chart, popular-stocks list with sparklines, sidebar storage card. Zero dependencies. |
 | Commerce Dashboard / Commerce Dashboard | `<commerce-dashboard>` | Templates | E-commerce admin dashboard (Spike genre): liquid pill bars, payment donut, congrats card, order tiles, weekly chart, top locations, purchaser list and product table. Zero dependencies. |
 | Dental Landing / Dental Landing | `<dental-landing>` | Templates | Editorial landing page for a dental practice: floating nav pill, services marquee, minimal hero, dark team section, review strip, first-visit steps, pricing, FAQ accordion and contact. Zero dependencies. |
+| Interior Landing / Interior Landing | `<interior-landing>` | Templates | Interior architecture studio landing: cream header with menu overlay, full-bleed hero, project mosaic with figure captions and dark meta cards, numbered services, contact footer. Zero dependencies. |
