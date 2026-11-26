@@ -1,4 +1,4 @@
-# Catalogue KBR-UI — 53 composants
+# Catalogue KBR-UI — 54 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
@@ -62,3 +62,4 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | Goods Store / Goods Store | `<goods-store>` | Templates | Dark digital-goods storefront: pill nav, giant wordmark with color blob, badge product grid, category marquees, free section, designer family ticker, newsletter. Zero dependencies. |
 | Nova Chat / Nova Chat | `<nova-chat>` | Templates | AI chat app shell: projects sidebar with grouped history, greeting state, composer card with tools and model picker, suggestion pills, simulated typing replies. Zero dependencies. |
 | Nord Store / Nord Store | `<nord-store>` | Templates | Minimal e-commerce storefront: clean header, editorial hero with gradient accent, product rail with CSS-composed art, apparel banner, collection duo, newsletter consent, footer. Zero dependencies. |
+| Lumen Photos / Lumen Photos | `<lumen-photos>` | Templates | Photo library app: top bar with search, library sidebar with storage meter, day-grouped justified photo grid with CSS-composed scenes, right-side year timeline. Zero dependencies. |
