@@ -1,4 +1,4 @@
-# Catalogue KBR-UI — 43 composants
+# Catalogue KBR-UI — 44 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
@@ -52,3 +52,4 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | Admin Dashboard / Admin Dashboard | `<admin-dashboard>` | Templates | Complete admin shell: collapsible sidebar, sticky header, stat cards, charts and a paginated table. Zero dependencies. |
 | Analytics Dashboard / Analytics Dashboard | `<analytics-dashboard>` | Templates | Analytics shell: workspace sidebar, KPI strip with sparklines, area chart, radial goal gauge, channel ranking and AI insights. Zero dependencies. |
 | Support Dashboard / Support Dashboard | `<support-dashboard>` | Templates | Support inbox dashboard: agent sidebar, queue KPIs, volume chart, channel mix donut, reply-time bars, on-duty roster, ticket table and activity feed. Zero dependencies. |
+| Pulse Dashboard / Pulse Dashboard | `<pulse-dashboard>` | Templates | Product home dashboard: greeting header, divided KPI strip, dual-series revenue chart and invoices table. Zero dependencies. |
