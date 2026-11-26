@@ -1,4 +1,4 @@
-# Catalogue KBR-UI — 57 composants
+# Catalogue KBR-UI — 58 composants
 
 Base URL : https://ui.rodolphekouadio.com
 
@@ -66,3 +66,4 @@ Chaque composant est un **web component autonome** (zéro dépendance) :
 | JSON Graph Editor / JSON Graph Editor | `<json-graph>` | Templates | JSON-to-graph editor: code pane with syntax highlight and live editing, node canvas with bezier edges and expandable rows, pan/zoom toolbar, validity indicator. Zero dependencies. |
 | Harbor Clients / Harbor Clients | `<harbor-clients>` | Templates | Media-server downloads page: docs header with command-K search, tab bar, recommended/all segmented toggle, stacked client cards with badges, platform icons and store buttons. Zero dependencies. |
 | Helm Board / Helm Board | `<helm-board>` | Templates | Self-hosted homepage board: dark widget grid with calendar, weather, live clock, focus timer, app launchpad, home controls (sliders, thermostat dial, media), assistant, RSS feed, maintenance checks, departures, stock sparkline. Zero dependencies. |
+| Daygrid Calendar / Daygrid Calendar | `<daygrid-calendar>` | Templates | Private URL-powered calendar: month grid with selectable days, events serialized into the URL hash, day panel, search, share and export card with URL-length meter, world clock, danger zone. Zero dependencies. |
